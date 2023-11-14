@@ -1,0 +1,20 @@
+/root/net/arceos/target/release/deps/librustversion-c9ed2625185530cf.so: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/version.rs /root/net/arceos/target/release/build/rustversion-54956155bb9f1e79/out/version.expr
+
+/root/net/arceos/target/release/deps/rustversion-c9ed2625185530cf.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/attr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/bound.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/constfn.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/date.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/error.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/expand.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/expr.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/release.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/time.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/token.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/version.rs /root/net/arceos/target/release/build/rustversion-54956155bb9f1e79/out/version.expr
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/bound.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/constfn.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/date.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/expr.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/release.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/time.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/token.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.12/src/version.rs:
+/root/net/arceos/target/release/build/rustversion-54956155bb9f1e79/out/version.expr:
+
+# env-dep:OUT_DIR=/root/net/arceos/target/release/build/rustversion-54956155bb9f1e79/out

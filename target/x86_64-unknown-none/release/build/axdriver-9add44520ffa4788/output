@@ -1,0 +1,2 @@
+cargo:rustc-cfg=bus="pci"
+cargo:rustc-cfg=net_dev="virtio-net"

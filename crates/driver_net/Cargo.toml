@@ -1,0 +1,24 @@
+[package]
+name = "driver_net"
+version = "0.1.0"
+edition = "2021"
+authors = ["Yuekai Jia <equation618@gmail.com>"]
+description = "Common traits and types for network device (NIC) drivers"
+license = "GPL-3.0-or-later OR Apache-2.0"
+homepage = "https://github.com/rcore-os/arceos"
+repository = "https://github.com/rcore-os/arceos/tree/main/crates/driver_net"
+documentation = "https://rcore-os.github.io/arceos/driver_net/index.html"
+
+
+
+
+[features]
+default = []
+bstnic = ["dep:bst-nic"]
+
+
+[dependencies]
+spin = "0.9"
+driver_common = { path = "../driver_common" }
+log = "0.4"
+bst-nic = { path = "../bst-nic", optional = true  }

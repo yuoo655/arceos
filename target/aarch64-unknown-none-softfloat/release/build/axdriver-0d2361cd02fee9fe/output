@@ -1,0 +1,2 @@
+cargo:rustc-cfg=bus="mmio"
+cargo:rustc-cfg=net_dev="bstnic"

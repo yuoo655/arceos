@@ -1,0 +1,1 @@
+/root/net/arceos/target/debug/libbst_nic.rlib: /root/net/arceos/crates/bst_nic/src/bst_defs.rs /root/net/arceos/crates/bst_nic/src/bst_main.rs /root/net/arceos/crates/bst_nic/src/lib.rs /root/net/arceos/crates/driver_common/src/lib.rs

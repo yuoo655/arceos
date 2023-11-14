@@ -1,0 +1,13 @@
+/root/net/arceos/target/x86_64-unknown-none/release/deps/bitflags-b48b95625ba020a8.rmeta: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/parser.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/traits.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/public.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/internal.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/external.rs
+
+/root/net/arceos/target/x86_64-unknown-none/release/deps/libbitflags-b48b95625ba020a8.rlib: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/parser.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/traits.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/public.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/internal.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/external.rs
+
+/root/net/arceos/target/x86_64-unknown-none/release/deps/bitflags-b48b95625ba020a8.d: /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/lib.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/iter.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/parser.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/traits.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/public.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/internal.rs /root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/external.rs
+
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/parser.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/traits.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/public.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/internal.rs:
+/root/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.3.3/src/external.rs:
