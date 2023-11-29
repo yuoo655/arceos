@@ -894,6 +894,7 @@ dependencies = [
  "ixgbe-driver",
  "log",
  "spin 0.9.8",
+ "starfive_eth",
 ]
 
 [[package]]
@@ -1750,6 +1751,20 @@ name = "stable_deref_trait"
 version = "1.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a8f112729512f8e442d81f95a8a7ddf2b7c6b8a1a6f509a95864142b30cab2d3"
+
+[[package]]
+name = "starfive"
+version = "0.1.0"
+dependencies = [
+ "axstd",
+]
+
+[[package]]
+name = "starfive_eth"
+version = "0.1.0"
+dependencies = [
+ "log",
+]
 
 [[package]]
 name = "static_assertions"

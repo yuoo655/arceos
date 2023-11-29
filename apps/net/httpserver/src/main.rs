@@ -17,7 +17,7 @@ use std::io::{self, prelude::*};
 use std::net::{TcpListener, TcpStream};
 use std::thread;
 
-const LOCAL_IP: &str = "0.0.0.0";
+const LOCAL_IP: &str = "192.168.0.2";
 const LOCAL_PORT: u16 = 5555;
 
 macro_rules! header {

@@ -20,6 +20,10 @@ phys-virt-offset = "0xffff_ffc0_0000_0000"
 mmio-regions = [
     ["0x1002_0000", "0x10000"],      # ethernet@10020000
     ["0x0201_0000", "0x1000"],       # cache_flush
+    ["0x1800_1000", "0x1000"],      # tdes
+    ["0x1800_2000", "0x1000"],      # rdes
+    ["0x1801_0000", "0x10000"],      # txbuffer
+    ["0x1802_0000", "0x10000"],      # rxbuffer
 ]
 
 
